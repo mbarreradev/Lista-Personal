@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Carolina TV" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/carolinatv.jpg" group-title="Radios", Carolina TV
+https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Carolina TV 2" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/carolinatv.jpg", Carolina TV 2
+https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Maxima FM" tvg-logo="https://www.m3u.cl/logo/33_Maxima_FM.png" group-title="Radios", Maxima FM
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Infinita" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/radioinfinita.jpg" group-title="Radios", Radio Infinita
+https://unlimited2-cl-isp.dps.live/infinitatv/infinitatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Radio Romantica" tvg-logo="https://www.m3u.cl/logo/428_Radio_Romantica.png" group-title="Radios", Radio Romantica
+https://unlimited2-cl-isp.dps.live/romanticatv/romanticatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Radio Agricultura" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png" group-title="Radios", Radio Agricultura
+http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Radio Duna" tvg-logo="https://lh3.googleusercontent.com/-yl6dZt6XKzE/XdshRlQ88eI/AAAAAAAAsU4/KxB9KZBrShQzBIEQyGmDZ9a-vvI41GiQwCK8BGAsYHg/s0/2019-11-24.png" group-title="Radios", Radio Duna *
+https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Pudahuel FM" tvg-logo="https://www.m3u.cl/logo/429_Pudahuel_FM.png" group-title="Radios", Pudahuel FM
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Cooperativa" tvg-logo="https://www.m3u.cl/logo/422_Cooperativa.png" group-title="Radios", Cooperativa
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Bio Bio TV" tvg-logo="https://www.m3u.cl/logo/421_Bio_Bio_TV.png" group-title="Radios", Bio Bio TV
+https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="ADN Radio Chile" tvg-logo="https://www.m3u.cl/logo/424_ADN.png" group-title="Radios", ADN Radio Chile
+https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Batalla de Gallos" tvg-logo="https://www.m3u.cl/logo/985_Batalla_de_Gallos.png" group-title="Radios", Red Bull Batalla de Gallos
+https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="On Radio Kpop" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png" group-title="Radios", On Radio Kpop
+https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Sexy Kpop TV" tvg-logo="https://lh3.googleusercontent.com/-_mVYIdXLYWQ/YGuFFxxUHFI/AAAAAAABBOo/1u_EVaReRtY31sRUcng-usb7bVQ9krgKwCK8BGAsYHg/s512/2021-04-05.jpg" group-title="Radios", Sexy Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Fanatica Kpop" tvg-logo="https://www.gestionpedagogica.cl/fanaticakpop.png" group-title="Radios", Fanatica Kpop
+https://ascl.denial.cl:2020/stream/8026?Playlist
+#EXTINF:-1 tvg-name="Dance FM" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png", Dance FM
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL
