@@ -32,7 +32,7 @@ https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Sexy Kpop TV" tvg-logo="https://lh3.googleusercontent.com/-_mVYIdXLYWQ/YGuFFxxUHFI/AAAAAAABBOo/1u_EVaReRtY31sRUcng-usb7bVQ9krgKwCK8BGAsYHg/s512/2021-04-05.jpg" group-title="Radios", Sexy Kpop TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="Fanatica Kpop" tvg-logo="https://www.gestionpedagogica.cl/fanaticakpop.png" group-title="Radios", Fanatica Kpop
+#EXTINF:-1 tvg-name="Fanatica Kpop" tvg-logo="https://raw.githubusercontent.com/MariioCL/Lista-personal/main/fanaticakpop.png" group-title="Radios", Fanatica Kpop
 https://ascl.denial.cl:2020/stream/8026?Playlist
 #EXTINF:-1 tvg-name="Dance FM" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png", Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL

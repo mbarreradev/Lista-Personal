@@ -8,8 +8,8 @@
 
 <p align="center">
   <b>
-  Para usar agregar URL
-  <a href="https://raw.githubusercontent.com/MariioCL/Lista-Personal/main/lista-personal.m3u" target="_blank">https://raw.githubusercontent.com/MariioCL/Lista-Personal/main/lista-personal.m3u</a>
+  Para usar agregar URL<br>
+  <a href="https://raw.githubusercontent.com/MariioCL/Lista-Personal/main/lista-personal.m3u" target="_blank">https://raw.githubusercontent.com/MariioCL/Lista-Personal/main/lista-personal.m3u</a><br>
   <a href="https://raw.githubusercontent.com/MariioCL/Lista-Personal/main/radios.m3u" target="_blank">https://raw.githubusercontent.com/MariioCL/Lista-Personal/main/radios.m3u</a>
   </b>
 </p>
